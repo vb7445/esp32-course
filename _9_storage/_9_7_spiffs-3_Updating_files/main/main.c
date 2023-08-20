@@ -2,7 +2,7 @@
 #include "esp_spiffs.h"
 #include "esp_log.h"
 
-#include <stdio.h> 
+#include <stdlib.h> 
 #include <dirent.h>
 #include <sys/unistd.h>
 #include <sys/stat.h>
